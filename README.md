@@ -1,0 +1,2 @@
+# NhapXuat
+Nhập xuất kho
